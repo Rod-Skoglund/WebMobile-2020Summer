@@ -3,9 +3,8 @@
 #### Author: Rod Skoglund
 ___
 
-## **Web-Lesson1**
-
-This repository is used for the 2020 Summer session of the Web and Mobile Programming course (CSEE-5590). The Web_Lesson1 subfolder is the first ICP in the Web Programming section. It covers installation/upgrade of WebStorm and getting setup (if not already established) in GitHub. This assignment will also cover several GitHub activities to develop a safe way to contribute as a team working on a single project in GirtHub. 
+This repository is used for the 2020 Summer session of the Web and Mobile Programming course (CSEE-5590). It is broken down into two sections; (1) Web Programming and (2) Mobile Programming. Each section will contain subfolders to capture the In Class Programming (ICP)
+lesson results.
 
 Here is the GitHub WebMobile-2020Summer Repository.
 
