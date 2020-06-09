@@ -9,4 +9,4 @@ This repository is used for the 2020 Summer session of the Web and Mobile Progra
 
 Here is the GitHub WebMobile-2020Summer Repository.
 
-![image](Web_Lesson1\Documentation\images\WebMobile-2020Summer_Update.png)
+![image](https://github.com/Rod-Skoglund/WebMobile-2020Summer/blob/master/Web_Lesson1/Documentation/images/WebMobile-2020Summer_Update.png)
